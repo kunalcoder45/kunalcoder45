@@ -64,7 +64,6 @@ A lightweight application developed to track and display user location data in r
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-<!-- आप अपनी विशेषज्ञता के अनुसार अन्य बैज भी जोड़ सकते हैं -->
 
 ## GitHub Stats
 
